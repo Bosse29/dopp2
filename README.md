@@ -1,1 +1,1 @@
-https://tradingeconomics.com/country-list/gdp-per-capita-ppp?continent=europe
+https://ec.europa.eu/eurostat/databrowser/view/sdg_10_10/default/table?lang=en
