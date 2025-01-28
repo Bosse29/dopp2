@@ -119,6 +119,30 @@ Croatia,2020,77.6
 Croatia,2021,76.6
 Croatia,2022,77.7
 Croatia,2023,78.6
+Cyprus,2000,77.7
+Cyprus,2001,79.0
+Cyprus,2002,78.7
+Cyprus,2003,79.0
+Cyprus,2004,79.1
+Cyprus,2005,78.7
+Cyprus,2006,80.1
+Cyprus,2007,79.8
+Cyprus,2008,80.6
+Cyprus,2009,81.0
+Cyprus,2010,81.5
+Cyprus,2011,81.2
+Cyprus,2012,81.1
+Cyprus,2013,82.5
+Cyprus,2014,82.3
+Cyprus,2015,81.8
+Cyprus,2016,82.7
+Cyprus,2017,82.2
+Cyprus,2018,82.9
+Cyprus,2019,82.3
+Cyprus,2020,82.4
+Cyprus,2021,81.3
+Cyprus,2022,81.6
+Cyprus,2023,82.5
 Czechia,2000,75.1
 Czechia,2001,75.3
 Czechia,2002,75.4
@@ -239,6 +263,30 @@ France,2020,82.3
 France,2021,82.4
 France,2022,82.3
 France,2023,83.1
+Georgia,2000,74.0
+Georgia,2001,74.0
+Georgia,2002,74.1
+Georgia,2003,74.1
+Georgia,2004,74.1
+Georgia,2005,74.2
+Georgia,2006,74.2
+Georgia,2007,74.9
+Georgia,2008,74.0
+Georgia,2009,73.3
+Georgia,2010,74.5
+Georgia,2011,74.5
+Georgia,2012,74.5
+Georgia,2013,74.6
+Georgia,2014,74.1
+Georgia,2015,73.0
+Georgia,2016,72.7
+Georgia,2017,73.5
+Georgia,2018,74.0
+Georgia,2019,74.1
+Georgia,2020,74.1
+Georgia,2021,74.2
+Georgia,2022,73.7
+Georgia,2023,73.7
 Germany,2000,78.3
 Germany,2001,78.6
 Germany,2002,78.6
@@ -407,6 +455,30 @@ Latvia,2020,75.5
 Latvia,2021,73.1
 Latvia,2022,74.5
 Latvia,2023,75.9
+Liechtenstein,2000,77.0
+Liechtenstein,2001,79.3
+Liechtenstein,2002,79.8
+Liechtenstein,2003,80.1
+Liechtenstein,2004,82.0
+Liechtenstein,2005,80.7
+Liechtenstein,2006,81.0
+Liechtenstein,2007,81.4
+Liechtenstein,2008,82.9
+Liechtenstein,2009,81.7
+Liechtenstein,2010,81.8
+Liechtenstein,2011,81.9
+Liechtenstein,2012,82.5
+Liechtenstein,2013,82.5
+Liechtenstein,2014,82.1
+Liechtenstein,2015,82.7
+Liechtenstein,2016,82.3
+Liechtenstein,2017,83.7
+Liechtenstein,2018,83.1
+Liechtenstein,2019,84.3
+Liechtenstein,2020,81.8
+Liechtenstein,2021,84.4
+Liechtenstein,2022,83.9
+Liechtenstein,2023,84.8
 Lithuania,2000,72.1
 Lithuania,2001,71.6
 Lithuania,2002,71.8
@@ -479,6 +551,30 @@ Malta,2020,82.1
 Malta,2021,82.3
 Malta,2022,82.4
 Malta,2023,83.6
+Moldova,2000,66.0
+Moldova,2001,66.4
+Moldova,2002,66.8
+Moldova,2003,67.2
+Moldova,2004,67.7
+Moldova,2005,68.1
+Moldova,2006,68.5
+Moldova,2007,68.9
+Moldova,2008,69.3
+Moldova,2009,69.4
+Moldova,2010,69.1
+Moldova,2011,71.0
+Moldova,2012,71.0
+Moldova,2013,71.4
+Moldova,2014,71.8
+Moldova,2015,72.3
+Moldova,2016,72.7
+Moldova,2017,73.1
+Moldova,2018,73.5
+Moldova,2019,73.9
+Moldova,2020,74.3
+Moldova,2021,74.8
+Moldova,2022,75.2
+Moldova,2023,75.6
 Montenegro,2000,74.1
 Montenegro,2001,74.1
 Montenegro,2002,74.0
@@ -503,6 +599,30 @@ Montenegro,2020,75.9
 Montenegro,2021,73.8
 Montenegro,2022,73.8
 Montenegro,2023,73.8
+Netherlands,2000,78.2
+Netherlands,2001,78.4
+Netherlands,2002,78.5
+Netherlands,2003,78.7
+Netherlands,2004,79.3
+Netherlands,2005,79.6
+Netherlands,2006,80.0
+Netherlands,2007,80.4
+Netherlands,2008,80.5
+Netherlands,2009,80.9
+Netherlands,2010,81.0
+Netherlands,2011,81.3
+Netherlands,2012,81.2
+Netherlands,2013,81.4
+Netherlands,2014,81.8
+Netherlands,2015,81.6
+Netherlands,2016,81.7
+Netherlands,2017,81.8
+Netherlands,2018,81.9
+Netherlands,2019,82.2
+Netherlands,2020,81.4
+Netherlands,2021,81.4
+Netherlands,2022,81.7
+Netherlands,2023,82.0
 North Macedonia,2000,73.0
 North Macedonia,2001,73.4
 North Macedonia,2002,73.0
@@ -767,3 +887,27 @@ Switzerland,2020,83.1
 Switzerland,2021,83.9
 Switzerland,2022,83.7
 Switzerland,2023,84.2
+United Kingdom,2000,78.0
+United Kingdom,2001,78.2
+United Kingdom,2002,78.3
+United Kingdom,2003,78.4
+United Kingdom,2004,79.0
+United Kingdom,2005,79.2
+United Kingdom,2006,79.5
+United Kingdom,2007,79.7
+United Kingdom,2008,79.8
+United Kingdom,2009,80.4
+United Kingdom,2010,80.6
+United Kingdom,2011,81.0
+United Kingdom,2012,81.0
+United Kingdom,2013,81.1
+United Kingdom,2014,81.4
+United Kingdom,2015,81.0
+United Kingdom,2016,81.2
+United Kingdom,2017,81.3
+United Kingdom,2018,81.3
+United Kingdom,2019,81.5
+United Kingdom,2020,81.7
+United Kingdom,2021,81.9
+United Kingdom,2022,82.0
+United Kingdom,2023,82.2
